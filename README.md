@@ -1,0 +1,1 @@
+GeTting data from API using Fetch Method.
